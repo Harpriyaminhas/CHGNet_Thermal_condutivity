@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/storage/home/biswarup/Harpriya/screen/md/mp-1192303_Pr2Mn3SbS34/cnet/chgnet_phonopy_run.py", line 4, in <module>
+    from chgnet_phonopy_class import *
+  File "/storage/home/biswarup/Harpriya/screen/md/mp-1192303_Pr2Mn3SbS34/cnet/chgnet_phonopy_class.py", line 16, in <module>
+    from jarvis.core.kpoints import Kpoints3D
+ModuleNotFoundError: No module named 'jarvis'
