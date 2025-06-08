@@ -48,7 +48,7 @@ Example input data is provided in the example folder for guidance.
   url = {https://github.com/Harpriyaminhas/chgnet_thermal_transport}
 }
 
-@article{deng2023chgnet,
+@reference_article{deng2023chgnet,
   title = {CHGNet as a pretrained universal neural network potential for charge-informed atomistic modelling},
   author = {Deng, Bowen and Zhong, Pan and Jun, Kyungwha and Riebesell, Jan and Han, Kejun and Bartel, Christopher J and Ceder, Gerbrand},
   journal = {Nature Machine Intelligence},
@@ -58,4 +58,4 @@ Example input data is provided in the example folder for guidance.
   year = {2023},
   publisher = {Nature Publishing Group}
 }
-# CHGNet_Thermal_condutivity
+
